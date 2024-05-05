@@ -1,7 +1,6 @@
-import React from 'react'
-
+import React from 'react';
 import './Header.css'
-import Logo from '../../assets/logo.png'
+import logo from '../../assets/logo.png'
 const Header = () => {
 
 	return (
@@ -17,4 +16,4 @@ const Header = () => {
 		</div>
 	)
 
-export default Hero
+export default Header;
