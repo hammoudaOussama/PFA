@@ -1,7 +1,8 @@
 import React from 'react';
-import './Plan.css';
+import './Plans.css';
 import {plansData} from '../data/plansData';
-import whiteTick from '../assets/whiteTick.png';
+import whiteTick from '../assets/whiteTick.png'
+
 
 function Plan(props) {
     return (
@@ -42,4 +43,4 @@ function Plan(props) {
     );
 }
 
-export default Plan;
+export default Plans;
